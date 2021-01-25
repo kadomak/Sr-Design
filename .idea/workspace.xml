@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d47a906-e223-4252-b3fb-c87a56be78fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ShoeDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrideLength.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrackExtraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoImport.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Sr-Design.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sr-Design.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoeDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoeDetection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackExtraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrackExtraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoImport.py" beforeDir="false" afterPath="$PROJECT_DIR$/VideoImport.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
